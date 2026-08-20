@@ -1,0 +1,7 @@
+D:/Codes/litedb/build/CMakeFiles/sqlite_clone.dir
+D:/Codes/litedb/build/CMakeFiles/sqlite_clone_sql_test.dir
+D:/Codes/litedb/build/CMakeFiles/litedb_server.dir
+D:/Codes/litedb/build/CMakeFiles/litedb_client.dir
+D:/Codes/litedb/build/CMakeFiles/test.dir
+D:/Codes/litedb/build/CMakeFiles/edit_cache.dir
+D:/Codes/litedb/build/CMakeFiles/rebuild_cache.dir

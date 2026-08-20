@@ -1,0 +1,18 @@
+# CMake and compiler output
+/build/*
+/build-local/
+
+# Generated database files
+/data/*.db
+/data/*.db.*
+/data/*.wal
+/data/*.index
+
+# Test and temporary artifacts
+/data/*-test.*
+/data/*-test.*.*
+
+# IDE and tool metadata
+.vs/
+.vscode/*.log
+compile_commands.json
